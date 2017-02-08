@@ -1,5 +1,5 @@
 # Mee6 : The Discord bot
-![Mee6](http://mee6.xyz/static/img/meeseeks.png)
+![Mee6](https://s3.amazonaws.com/swgoh/clones.png)
 
 ## What is it?
 Mee6 is a Discord bot that lets you easily add your own commands to your server
